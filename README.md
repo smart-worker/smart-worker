@@ -23,4 +23,4 @@
 - 😄 Pronouns: He | Him :sunglasses:
 - ⚡ Fun fact: Very lazy to upload my works on Github :grin:
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=smart-worker)](https://github.com/smart-worker/github-readme-stats)
+
