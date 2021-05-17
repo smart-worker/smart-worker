@@ -2,7 +2,7 @@
 ## **SOHAM SARKAR** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> here
 🇮🇳 INDIAN, :hearts: Bengali
    
-   > Software Engineer | Tech Enthusiast | Competitive Coder | Front-end Web Developer<br>
+   > Tech Enthusiast | Competitive Coder | Front-end Web Developer<br>
    > I have works on python(games) as well.<br>
    > I am not a very socially active guy, but yeah you'll have my interest if you contact me for something productive.<br>
    > Details about me below.<br>
