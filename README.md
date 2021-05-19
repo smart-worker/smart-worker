@@ -40,5 +40,8 @@
 <hr>
 <p align="center">
 <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35" alt="GitHub-Status"/>
-<p align="center"><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-worker&show_icons=true&locale=en&layout=compact" alt="smart-worker" />
+<p align="center"><img
+		align="justify"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-worker&&layout=compact&theme=graywhite"
+	/>
 <p align="center"><img align="justify" src="https://github-readme-stats.vercel.app/api?username=smart-worker&show_icons=true&locale=en" alt="smart-worker" width="410" /></p>
